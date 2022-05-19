@@ -1,3 +1,8 @@
+For the task, you should find it in the User class
+which should be visited like:
+base_url/User/index.php
+and that's it. Thanks.
+
 ###################
 What is CodeIgniter
 ###################
