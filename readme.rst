@@ -4,6 +4,12 @@ base_url/User/index.php
 and that's it. Thanks.
 
 ###################
+A Working version: 
+###################
+http://178.62.112.210/CodeIgniter/User/
+###################
+
+###################
 What is CodeIgniter
 ###################
 
