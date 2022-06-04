@@ -2,6 +2,9 @@ For the task, you should find it in the User class
 which should be visited like:
 base_url/User/index.php
 and that's it. Thanks.
+Don't forget to set DB details
+This is CodeIgniter 3, not version 4.. so be careful in your setup!
+The javascript code is in the user_view.php which is 2 functions responsible for doing the create select box process using CreateElement, and for sending the Ajax request.
 
 ###################
 A Working version: 
